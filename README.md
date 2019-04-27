@@ -29,3 +29,5 @@ Privacy information can be found at https://privacy.microsoft.com/en-us/
 
 Microsoft and any contributors reserve all other rights, whether under their respective copyrights, patents,
 or trademarks, whether by implication, estoppel or otherwise.
+
+[![Build Status](https://dev.azure.com/bmicucci/GlobalAzureBootcamp/_apis/build/status/bmicucci.pipelines-dotnet-core-docker?branchName=master)](https://dev.azure.com/bmicucci/GlobalAzureBootcamp/_build/latest?definitionId=1&branchName=master)
